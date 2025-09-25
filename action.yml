@@ -1,6 +1,6 @@
-name:'Deis Action'
-description:'A Test Deis Action'
-author:'Altakie'
+name: 'Deis Action'
+description: 'A Test Deis Action'
+author: 'Altakie'
 runs:
   using:'node20'
   main:'index.js'
